@@ -10,4 +10,4 @@ To map a database table to an object , annotate the object's class with the @Tab
 
 Database Operations
 
-To perform database operations, use the Session class.
+Feel free to use it!
